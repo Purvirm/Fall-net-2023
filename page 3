@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Page 3</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+<div {background-color: Yellow;
+      font-family: Arial;
+      text align;
+    Padding; 50px;
+    Margin; 80px;
+    Border: 10px solid black
+      }
+    <h1>The Story Of My Life</h1>    
+    <div {font-style: italics;
+      Padding: 50px;
+      Margin: 80px;
+      Border: 10px solid black;
+      Padding-top: 10px;
+      }
+        <p><span class="font-weight:bold.title">The Hospital</span><br>
+        Once I got to the hospital, it felt weird, because I have never been taken to a hospital in an ambulance.<br>
+        Once I got there, they did their routinely tests and forms they need filled out.<br>
+        After sometime, the doctor comes by and sees me and then tells the nurse to give me the SOS medication as well as adding some Benadryl to it so I can fall asleep,<br>
+        After awhile I wake up to see that I am being pushed to a room, a private room, since I had tested positive for Covid, and in the back I hear my parents talking to each other,<br>
+        A few minutes after getting to the room, The nurses start to put wires on my head for an EEG scan.</p>
+    </div>
+    <div {Padding: 50px;
+      Margin: 80px;
+      Border: 10px solid black;
+      }
+</body>
+</html>
