@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Page 2</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+<div {background-color: white;
+      font-family: Arial;
+      text align;
+    Padding; 50px;
+    Margin; 80px;
+    Border: 10px solid black
+      }
+    <h1>The Story Of My Life</h1>    
+    <div {font-style: Underline;
+      Padding: 50px;
+      Margin: 80px;
+      Border: 10px solid black;
+      Padding-top: 10px;
+      }        
+      <p><span class="font-weight:bold.title">Coming Back Home</span><br>
+        When I came back home, I was fine for a while, until I once again had to go to the hospital.<br>
+        Except this time conscious, and I was able to see what was happening around me, my parents getting scared, my brother a mess again.<br>
+        But this time I saw them face to face this time and not on the phone,<br>
+        Once the police and the ambulance came, it felt real, hearing the sirens as they took me out on the stretcher,<br>
+        It just didn't feel normal because instead of an ambulance passing my with its sirens for someone else, it was going to pass by several cars because of me.</p>
+    </div>
+    <div {Padding: 50px;
+      Margin: 80px;
+      Border: 10px solid black;
+      }
+</body>
+</html>
