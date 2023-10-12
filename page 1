@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Page 1</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+<div background-color: Blue;
+      font-family: Arial;
+      text align;
+    Padding; 50px;
+    Margin; 80px;
+    Border: 10px solid black
+      }
+    <h1>The Story Of My Life</h1>    
+    <div {font-style: Underline;
+      Padding: 50px;
+      Margin: 80px;
+      Border: 10px solid black;
+      Padding-top: 10px;
+      }
+        <p><span class="font-weight:bold.title">India</span><br>
+        Junior year of high school, during Covid I had my first seizure.<br>
+        I woke up in the hospital not knowing what happened and where I was.<br>
+        I woke up to my mom crying and on the phone with my dad and brother who were also crying,<br>
+        After that one scarey night, I forgot how to be a normal person again,<br>
+        The only thing I kept thinking of after that night, was that I won't ever be a normal human bring, andn I will be seen differently by everyone around me.</p>
+    </div>
+    <div {Padding: 50px;
+      Margin: 80px;
+      Border: 10px solid black;
+      }
+</body>
+</html>
