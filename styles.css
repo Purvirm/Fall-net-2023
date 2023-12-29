@@ -3,5 +3,6 @@ body {
 }
 
 p {
-     font-color: yellow,font-size: 60px;
+     color: yellow;
+     font-size: 60px;
   }
